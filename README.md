@@ -1,1 +1,1 @@
-# Malaria-Detection-Transfer-Learning
+# Malaria-Detection
